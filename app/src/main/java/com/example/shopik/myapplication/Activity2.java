@@ -35,6 +35,4 @@ public class Activity2 extends AppCompatActivity {
         editor.apply();
         startActivity(new Intent(this, Activity3.class));
     }
-
-
 }

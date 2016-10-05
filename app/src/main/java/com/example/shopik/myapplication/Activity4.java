@@ -25,7 +25,6 @@ public class Activity4 extends AppCompatActivity {
         Boolean was = settings.getBoolean(WAS_HERE,false);
         if (was) {
             startActivity(new Intent(this, Activity6.class));
-
         }
     }
     public void onClick(View v){
