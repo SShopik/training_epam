@@ -21,4 +21,9 @@ public class Activity6 extends AppCompatActivity {
         editor.clear();
         editor.apply();
     }
+    @Override
+    public void onBackPressed() {
+        finishAffinity();
+    }
+
 }
