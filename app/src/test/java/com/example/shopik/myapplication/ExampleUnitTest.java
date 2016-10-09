@@ -1,6 +1,15 @@
 package com.example.shopik.myapplication;
 
 import org.junit.Test;
+//import org.junit.After;
+//import org.junit.AfterClass;
+//import org.junit.Before;
+//import org.junit.BeforeClass;
+//import org.junit.Test;
+//import org.mockito.Matchers;
+//import org.mockito.Mock;
+//import org.mockito.Mockito;
+//import org.mockito.MockitoAnnotations;
 
 import static org.junit.Assert.*;
 

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="clear">Clear history</string>
+    <string name="refresh">Refresh</string>
+    <string name="button">Button</string>
 </resources>
